@@ -1,4 +1,7 @@
 
 hello
 this is new statement
+<<<<<<< HEAD
 update in master.
+=======
+>>>>>>> dev
